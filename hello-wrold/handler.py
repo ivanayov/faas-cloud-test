@@ -1,3 +1,3 @@
 def handle(req):
 
-    return "Hello world! Greeting from the Cloud!"
+    return "Hello world! Greetings from the Cloud!"
